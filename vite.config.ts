@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Aalian.QA/', // Make sure this matches your repository name exactly
+  base: '/Aalian.QA/', // This matches your repository name exactly
 });
